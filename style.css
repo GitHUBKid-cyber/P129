@@ -1,0 +1,30 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size:15px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+.next_heading_tag
+{
+    border: navy;
+    font-size: 23px;
+    box-shadow: navy;
+    padding: 10px;
+    margin: auto;
+}
+.canvas
+{
+    border: navy;
+    box-shadow: navy;
+    padding: 10px;
+    margin: auto;
+}
